@@ -1,0 +1,39 @@
+
+TODO app
+1. E-Commerce Apps
+2. Calculator
+3. Weather App
+
+FAQ/Accordion
+Quote Generator
+Shopping list
+GitHub User Search
+searchbar
+filter
+navbar
+contact information
+Call-to-action buttons: Prompts users to take a specific action, such as "Sign up now" or "Buy now." CTA
+login feature
+changing language
+checklist
+testimonials
+Newsletters form
+Live chat
+News fetch auto displaying 
+payment option
+create a forum (create some post > people can answer and closed)
+Breadcrumbs trail
+Sidebar navigation
+Mettre en favoris
+Implementer Gmap
+capcha
+dark mode
+spell checker 
+Links that are easy to understand  ((anim underline etc))
+display song
+display video
+review stars logo (based on fav)
+8. Subscription Offer
+
+Design good hero section
+survey (sondage)
